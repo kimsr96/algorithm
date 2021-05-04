@@ -1,3 +1,3 @@
-l = [1,2,3]
-l.pop(0)
-print(l)
+num = map(int, input().split())
+for n in num:
+    print(n)
