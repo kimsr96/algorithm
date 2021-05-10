@@ -7,6 +7,7 @@ for _ in range(n):
 
     if d1 == 0 and r1 != r2:
         print(0)
+    elif 
     elif d1 > d2:
         print(0)
     elif d1 == 0 and r1 == r2:
